@@ -49,3 +49,16 @@ To contribute to this project, please follow these guidelines:
 4. Submit a pull request for review.
 
 Please adhere to the project's coding standards and provide clear and detailed pull request descriptions.
+
+## Home Page
+![Capture1](https://github.com/Daquiver1/Frontend-Grading-Assignment/assets/147488916/a83d1784-c4f2-4286-a616-424073497998)
+![Capture2](https://github.com/Daquiver1/Frontend-Grading-Assignment/assets/147488916/579b316d-9860-451b-9abd-73bd17e00b34)
+
+
+![Capture2](https://github.com/Daquiver1/Frontend-Grading-Assignment/assets/147488916/8964325a-9791-4e09-97e8-44bb981355a8)
+
+
+
+
+
+
